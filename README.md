@@ -11,7 +11,7 @@ Matplotlib: 2.1.0
 
 ## Table of contents for the repo: 
 1) Eigendecomposition, gradient, matrix, and tensor (matplotlib, numpy, linalg)
-
+2) DataViz / Linear regression with Seaborn
 
 
 
